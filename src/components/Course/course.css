@@ -1,0 +1,19 @@
+.container-course {
+  width: 1440px;
+  height: 736.8px;
+  background-color: #dce0e3;
+  text-align: center;
+}
+
+h2 {
+  color: #727374;
+}
+h1 {
+  color: #20334e;
+}
+.gallery-course {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

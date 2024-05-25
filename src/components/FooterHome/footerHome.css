@@ -1,0 +1,54 @@
+.container-footer {
+  width: 1440px;
+  height: 1083.36px;
+  background-color: #292929;
+}
+.first {
+  display: flex;
+  color: white;
+  justify-content: center;
+}
+.img {
+  display: flex;
+  justify-content: center;
+}
+.second {
+  color: white;
+}
+
+.user {
+  color: #337ab7;
+}
+.bworg {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.p .jean {
+  display: flex;
+  justify-content: flex-start;
+}
+.zumba {
+  display: flex;
+  justify-content: center;
+}
+
+.copyrigth {
+  font-size: 12px;
+}
+.michi {
+  justify-content: center;
+  color: #337ab7;
+}
+
+.lit {
+  color: #337ab7;
+}
+.macho {
+  justify-content: center;
+}
+.azul {
+  display: flex;
+  flex-direction: row;
+  color: white;
+}

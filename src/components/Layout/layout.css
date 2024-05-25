@@ -1,0 +1,35 @@
+.layout {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  width: 1290px;
+  height: 53px;
+  background-color: #15283c;
+}
+
+.layout-left {
+  width: 80%;
+}
+
+.layout-rigth {
+  display: flex;
+  position: relative;
+  vertical-align: middle;
+  justify-content: flex-end;
+  align-items: center;
+  width: 20%;
+  height: 33px;
+}
+
+.btn-layout {
+  position: absolute;
+  top: 30%;
+  margin-right: 40px;
+  width: 139.57px;
+  height: 33px;
+  background-color: #ffc107;
+  color: black;
+}
+.free {
+  color: #ffc107;
+}

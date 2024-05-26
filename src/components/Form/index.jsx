@@ -3,7 +3,7 @@ import "./form.css";
 
 const Form = () => {
   return (
-    <div className="container-form">
+    <div className="container-formul">
       <div className="title-form">
         <h2 className="title-connect">CONNECT WITH</h2>
         <h1 className="title-tai">TAI LOPEZ</h1>

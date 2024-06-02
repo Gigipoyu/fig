@@ -28,9 +28,7 @@ const Form = () => {
             provided, even if the phone number is present on a state or national
             Do Not Call list.
           </label>
-          <button className="btn btn-layout" type="button">
-            Continue
-          </button>
+
           <p>
             By using our site, you agree to the TaiLopez.com Terms of Use and
             Privacy Policy.

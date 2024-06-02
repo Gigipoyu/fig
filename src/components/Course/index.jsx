@@ -11,9 +11,9 @@ const Course = () => {
         <h1>COURSES & TRAININGS</h1>
       </div>
       <div className="gallery-course">
-        {data.cards.map((card) => (
-          <CardCourse card={card} />
-        ))}
+        {data.cards.map((card) => {
+          <CardCourse card={card} />;
+        })}
       </div>
     </div>
   );

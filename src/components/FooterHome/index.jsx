@@ -105,7 +105,7 @@ const FooterHome = () => {
           </div>
           <p>
             <ul className="bworg">
-              <span>Policies:</span>
+              <span className="policie">Policies:</span>
               <NavLink to={"/"}>
                 <li className="lit">TERMS OF USE</li>
               </NavLink>

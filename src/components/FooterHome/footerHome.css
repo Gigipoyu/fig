@@ -52,3 +52,7 @@
   flex-direction: row;
   color: white;
 }
+
+.policie:before {
+  content: "";
+}

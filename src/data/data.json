@@ -30,5 +30,12 @@
       "link": "couf",
       "img": "fcourse.png"
     }
+  ],
+  "videos": [
+    {
+      "id": "KlROa95m7EE",
+      "img": "vid1.png",
+      "description": "One Simple Talk That Will Change Your Life..."
+    }
   ]
 }
